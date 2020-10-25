@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Primeira linha do ficheiro
 Segunda linha do ficheiro
+=======
+>>>>>>> parent of 6cb44f1... alteracao
